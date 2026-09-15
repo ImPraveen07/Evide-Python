@@ -1,0 +1,17 @@
+{
+  "name": "Python Mobile IDE Max",
+  "short_name": "PyIDE",
+  "description": "An offline-capable mobile Python IDE.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#181818",
+  "theme_color": "#181818",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48cGF0aCBmaWxsPSIjMzg3ZWI4IiBkPSJNNjMuODgyIDEuNDg4QzMwLjk4NyAxLjQ4OCAyOC41MyAxNS42NSAyOC41MyAxNS42NWwuMDM1IDE0LjU0NGgzNS44M3Y1LjExNUgyMC40NjNTMS41IDMzLjYyNyAxLjUgNjMuODVjMCAzMC4yMiAxNy4wNyAzMS4wMjYgMTcuMDcgMzEuMDI2aDkuMTl2LTEyLjg3YzAtMTQuNzMgMTIuMTkzLTI2Ljk2MyAyNi45MjQtMjYuOTYzaDI3LjQyNFYzMi45NjRjMC0xNS42NTUtMTIuNTk3LTMxLjQ3Ni0xOC4yMjYtMzEuNDc2ek00OC43NCAxMC45ODNhNC45MTIgNC45MTIgMCAxIDEgLTkuODI0IDAgNC45MTIgNC45MTIgMCAwIDEgOS44MjQgMHoiLz48cGF0aCBmaWxsPSIjZmZlMDUyIiBkPSJNNjQuMDcgMTI2LjUxYzMyLjg5NCAwIDM1LjM1LTE0LjE2IDM1LjM1LTE0LjE2bC0uMDM1LTE0LjU0M0g2My41NTV2LTUuMTE2aDQzLjkzczE4Ljk2MyAxLjY4IDE4Ljk2My0yOC41NDRjMC0zMC4yMjItMTcuMDctMzEuMDI3LTE3LjA3LTMxLjAyN2gtOS4xOXYxMi44NzJjMCAxNC43MjgtMTIuMTkzIDI2Ljk2Mi0yNi45MjQgMjYuOTYySDQ1Ljg0djIyLjA4YzAgMTUuNjU0IDEyLjU5NyAzMS40NzUgMTguMjMgMzEuNDc1ek03OS4yMTMgMTE3LjAxNmE0LjkxMiA0LjkxMiAwIDEgMSA5LjgyMyAwIDQuOTEyIDQuOTEyIDAgMCAxLTkuODIzIDB6Ii8+PC9zdmc+",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
