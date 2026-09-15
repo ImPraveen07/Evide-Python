@@ -1,10 +1,11 @@
-const CACHE_NAME = 'py-ide-max-cache-v1';
+const CACHE_NAME = 'evidepython-cache-v4';
 
 // Local files to cache immediately
 const STATIC_ASSETS = [
     './',
     './index.html',
-    './manifest.json'
+    './manifest.json',
+    './evidepython.png' // <-- Added your new icon here so it works offline
 ];
 
 // Install Event: Cache local files
